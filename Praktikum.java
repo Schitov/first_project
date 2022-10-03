@@ -30,5 +30,5 @@ public class Praktikum {
         else {
         	return false;
         }
-    }
+    } 
 }
